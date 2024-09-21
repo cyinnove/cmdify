@@ -1,6 +1,4 @@
-### `cmdify`
 
-```markdown
 # cmdify
 
 `cmdify` is a simple Golang package that allows you to run shell commands, detect available shells, and execute common Linux commands programmatically in your Go applications. It provides utility functions for commonly used commands such as `ls`, `pwd`, `host`, `mkdir`, `touch`, and more.
